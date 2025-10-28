@@ -16,3 +16,11 @@
 [![](https://visitcount.itsvg.in/api?id=kirolos-100&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kirolos-100/kirolos-100/output/snake.svg" alt="Snake animation" />
+
+###
