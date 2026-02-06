@@ -8,6 +8,14 @@
 </p>
 
 
+
+<p align="center">
+  <img src="banner.gif" alt="Kirolos Louis | Frontend Developer" width="100%" />
+</p>
+
+
+
+
 ### ⚡ React & Next.js Developer | UI-Focused Frontend Engineer
 
 I’m a React & Next.js developer passionate about building **high-performance, scalable, and visually polished web applications**.  
@@ -23,10 +31,6 @@ I enjoy turning complex ideas into **simple, intuitive user experiences** using 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiroloslouis3@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="banner.gif" alt="Kirolos Louis | Frontend Developer" width="100%" />
-</p>
 
 ## 💻 Tech Stack
 
