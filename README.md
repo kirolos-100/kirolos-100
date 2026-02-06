@@ -62,23 +62,3 @@ I enjoy turning complex ideas into **simple, intuitive user experiences** using 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kirolos-100&show_icons=true&theme=github_dark&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirolos-100&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=kirolos-100&theme=github-dark&hide_border=true"
-  />
-</p>
-
----
