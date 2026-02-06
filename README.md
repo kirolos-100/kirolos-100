@@ -9,6 +9,10 @@ I enjoy turning complex ideas into **simple, intuitive user experiences** using 
 
 ---
 
+<p align="center">
+  <img src="banner.gif" alt="Kirolos Louis | Frontend Developer" width="100%" />
+</p>
+
 ## 🌐 Connect with Me
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/kiroloslouis)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirolos-louis-0346a21b6/)
