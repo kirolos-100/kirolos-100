@@ -1,5 +1,13 @@
 # 👋 Hi, I'm Kirolos Louis
 
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Full+Stack+Developer" 
+    alt="Typing animation" 
+  />
+</p>
+
+
 ### ⚡ React & Next.js Developer | UI-Focused Frontend Engineer
 
 I’m a React & Next.js developer passionate about building **high-performance, scalable, and visually polished web applications**.  
