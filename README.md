@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kirolos Louis
+<h1 align="center">Hi 👋, I'm <span style="color:#00d492">Kerolos</span></h1>
 
 <p align="center">
   <img 
@@ -34,31 +34,52 @@ I enjoy turning complex ideas into **simple, intuitive user experiences** using 
 
 ## 💻 Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma)
-
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-
-### Tools & Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,react,next,angular,tailwind,materialui,bootstrap,jquery,html,css,sass,git,github,vite" alt="ts,js,react,next,angular,tailwind,materialui,bootstrap,jquery,html,css,sass,git,github,vite,vscode,yarn,npm,pnpm,postman,nodejs,figma" />
+<img src="https://skillicons.dev/icons?i=,vscode,yarn,npm,pnpm,postman,nodejs,figma" alt=",vscode,yarn,npm,pnpm,postman,nodejs,figma" />
+<img src="https://cdn.simpleicons.org/shadcnui?viewbox=auto&size=40" alt="shadcnui" />
+<img src="https://cdn.simpleicons.org/reacthookform?viewbox=auto&size=40" alt="reacthookform" />
+<img src="https://cdn.simpleicons.org/zod?viewbox=auto&size=40" alt="zod" />
+<img src="https://cdn.simpleicons.org/axios?viewbox=auto&size=40" alt="axios" />
+<img src="https://cdn.simpleicons.org/tanstack?viewbox=auto&size=40" alt="tanstack" />
+<img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" height="40" alt="zustand" />
+<img src="https://cdn.simpleicons.org/i18next?viewbox=auto&size=40" alt="i18next" />
+<img src="https://cdn.simpleicons.org/jira?viewbox=auto&size=40" alt="jira" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack" />
+</div>
 
 ---
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Kerolos2000?cardType=level&theme=dark&preferLogin=true" height="175">
+  </a>
+  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Kerolos2000&theme=dark)
+</div>
+
+---
+
+
+## 🐍 GitHub Contributions
+
+<div align="center">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Kerolos2000/Kerolos2000/output/snake.svg" />
+</div>
+
+---
+
+
+
+
+## 🏅 Trophies & Activity
+
+<div align="center">
+  <img src='https://hacked-github-stat-trophies.vercel.app/?username=Kerolos2000&theme=dark&column=11'>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kerolos2000&theme=github-dark&area=true&radius=16" height="300" />
+</div>
 
