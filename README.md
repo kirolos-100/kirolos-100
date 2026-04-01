@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00d492">Kerolos</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00d492">Kirolos Louis</span></h1>
 
 <p align="center">
   <img 
