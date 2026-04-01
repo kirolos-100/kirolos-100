@@ -78,8 +78,8 @@ I enjoy turning complex ideas into **simple, intuitive user experiences** using 
 ## 🏅 Trophies & Activity
 
 <div align="center">
-  <img src='https://hacked-github-stat-trophies.vercel.app/?username=Kerolos2000&theme=dark&column=11'>
+  <img src='https://hacked-github-stat-trophies.vercel.app/?username=kirolos-100&theme=dark&column=11'>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kerolos2000&theme=github-dark&area=true&radius=16" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirolos-100&theme=github-dark&area=true&radius=16" height="300" />
 </div>
 
